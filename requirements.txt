@@ -1,0 +1,7 @@
+flask
+flask-cors
+flask-limiter
+yt-dlp
+certifi
+gunicorn
+requests
